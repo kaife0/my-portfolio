@@ -9,7 +9,7 @@
 
 ---
 
-![Portfolio Screenshot](/public/imgs/p6.png)
+![Portfolio Screenshot](./public/imgs/p6.png)
 
 ## ✨ Overview
 
@@ -71,7 +71,7 @@ src/
 ```bash
 # Clone the repository
 git clone https://github.com/kaife0/my-portfolio
-cd portfolio
+cd my-portfolio
 
 # Install dependencies
 npm install
