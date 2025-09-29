@@ -176,7 +176,7 @@ const AboutSection = () => {
                   alt="Md Kaif"
                   loading="lazy"
                 />
-                <AvatarFallback>AZ</AvatarFallback>
+                <AvatarFallback>MK</AvatarFallback>
               </Avatar>
               {/* <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
                 3.41 GPA

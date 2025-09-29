@@ -1,8 +1,8 @@
 
 {
-  "name": "Aathif Zahir Portfolio",
-  "short_name": "AZ Portfolio",
-  "description": "Portfolio website of Aathif Zahir, a software engineering student specializing in full-stack development.",
+  "name": "Md Kaif's Portfolio",
+  "short_name": "MK Portfolio",
+  "description": "Portfolio website of Md Kaif, a software engineering student specializing in full-stack development.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f7fafc",
