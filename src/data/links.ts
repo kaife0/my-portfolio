@@ -1,9 +1,10 @@
 export const Links = {
-    github: "https://github.com/aathifzahir",
-    linkedin: "https://linkedin.com/in/aathifzahir",
-    email: "mailto:aathifzahir12@gmail.com",
-    resume: "https://www.dropbox.com/scl/fi/q4xrx79y71qi3i01yffja/Aathif_Zahir_CV.pdf?rlkey=7v6aicpcshu6h1diqyq9cb0p2&st=wbf2xkt8&dl=1",
-    emailonly: "aathifzahir12@gmail.com",
-    location: "Colombo, Sri Lanka",
-    phone: "+94 76 527 1411",
+    github: "https://github.com/kaife0",
+    linkedin: "https://www.linkedin.com/in/md-kaif-a229652b9/",
+    instagram: "https://www.instagram.com/kaife_0234/",
+    email: "mailto:mdkaif1590@gmail.com",
+    resume: "/resume.pdf",
+    emailonly: "mdkaif1590@gmail.com",
+    location: "Sahibganj Jharkhand, India",
+    phone: "+91 9065684150",
   };

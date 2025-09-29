@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Instagram } from "lucide-react";
 import { motion } from "framer-motion";
 import { Links } from "@/data/links";
 
@@ -56,14 +56,14 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            Aathif{" "}
+            MD{" "}
             <motion.span
               className="highlight-text"
               initial={{ backgroundSize: "0% 3px" }}
               animate={{ backgroundSize: "100% 3px" }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Zahir
+              KAIF
             </motion.span>
           </motion.h1>
 
@@ -128,7 +128,7 @@ const HeroSection = () => {
               {[
                 { icon: Github, link: Links.github, label: "GitHub" },
                 { icon: Linkedin, link: Links.linkedin, label: "LinkedIn" },
-                { icon: Mail, link: Links.email, label: "Email" },
+                { icon: Instagram, link: Links.instagram, label: "Instagram" },
               ].map((social, index) => (
                 <motion.a
                   key={index}
@@ -212,7 +212,7 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">name</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">'Aathif Zahir'</span>
+                  <span className="text-green-600">'Md Kaif'</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
 
@@ -229,7 +229,7 @@ const HeroSection = () => {
                   <span className="text-gray-500">,</span>{" "}
                   <span className="text-green-600">'Node.js'</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">'Python'</span>
+                  <span className="text-green-600">'C++'</span>
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>

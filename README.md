@@ -14,7 +14,7 @@
 
 ## ✨ Overview
 
-Welcome to the personal portfolio of **Aathif Zahir**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.
+Welcome to the personal portfolio of **Md Kaif**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.
 
 ---
 
@@ -120,4 +120,4 @@ I’m open to collaborations, opportunities, or just a chat!
 
 ---
 
-> © 2025 Aathif Zahir. Built with ❤️ using React, TypeScript, and Tailwind CSS.
+> © 2025 Md Kaif. Built with ❤️ using React, TypeScript, and Tailwind CSS.

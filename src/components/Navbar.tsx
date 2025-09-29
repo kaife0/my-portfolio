@@ -55,7 +55,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-14">
           <div className="flex items-center">
             <a href="/">
-              <span className="text-xl font-bold text-primary">AZ.</span>
+              <span className="text-xl font-bold text-primary">MK.</span>
             </a>
           </div>
 
@@ -78,7 +78,7 @@ const Navbar = () => {
                 asChild
                 onClick={handledownload}
               >
-                <a href={resumeUrl} download="Aathif_Zahir_CV.pdf">
+                <a href={resumeUrl} download="MD_Kaif_Resume.pdf">
                   Resume
                 </a>
               </Button>
@@ -142,7 +142,7 @@ const Navbar = () => {
               </a>
             ))}
             <Button size="sm" className="ml-3 mt-2" asChild>
-              <a href={resumeUrl} download="Aathif_Zahir_CV.pdf">
+              <a href={resumeUrl} download="MD_Kaif_Resume.pdf">
                 Resume
               </a>
             </Button>
