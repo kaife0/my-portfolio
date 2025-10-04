@@ -129,7 +129,7 @@ const AboutSection = () => {
                           VoltWorks
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          Since July 2025 - Present
+                           July 2025 - September 2025
                         </p>
                       </div>
                       <div>
